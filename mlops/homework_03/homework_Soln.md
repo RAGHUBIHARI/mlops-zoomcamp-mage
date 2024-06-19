@@ -153,7 +153,7 @@ Find the logged model, and find MLModel file. What's the size of the model? (`mo
 
 * 14,534
 * 9,534
-* 4,534
+## 4,534
 * 1,534
 
 > Note: typically we do last two steps in one code block.
@@ -165,7 +165,7 @@ Find the logged model, and find MLModel file. What's the size of the model? (`mo
 * If your answer doesn't match options exactly, select the closest one.
 
 
+## Solution video
+* https://www.loom.com/share/802c8c0b843a4d3bbd9dbea240c3593a
 
-
-
-
+* My solution(Partial) - https://github.com/RAGHUBIHARI/mlops-zoomcamp-mage/blob/master/mlops/homework_03/homework_Soln.md
